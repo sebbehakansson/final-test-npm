@@ -7,6 +7,7 @@ function App() {
 console.log(test1)
   return (
     <>
+    <h1>Detta är nytt </h1>
     <h1>{text}</h1>
     </>
   )
